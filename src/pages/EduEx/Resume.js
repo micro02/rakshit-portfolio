@@ -20,6 +20,7 @@ export default function Resume() {
                           <Resumecontent
                             title={res.title}
                             subtitle={res.subtitle}
+                            company_url={res.company_url}
                             date={res.date}
                             content={res.content}
                           ></Resumecontent>
@@ -41,6 +42,7 @@ export default function Resume() {
                           <Resumecontent
                             title={info.title}
                             subtitle={info.subtitle}
+                            company_url={info.company_url}
                             date={info.date}
                             content={info.content}
                           ></Resumecontent>
@@ -57,3 +59,12 @@ export default function Resume() {
     </Container>
   );
 }
+
+
+
+
+
+
+
+
+

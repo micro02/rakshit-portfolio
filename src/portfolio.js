@@ -258,7 +258,7 @@ const skills = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create web based projects and deploy them using cloud infrastructure.",
 };
 
 //project cards
@@ -266,37 +266,36 @@ const projectsHeader = {
 const projectcards = {
   list: [
     {
-      title: "TEATH",
-      img_path: "project-06.png",
+      title: "Windson Organics",
+      img_path: "project-05.png",
       description:
-        "A WebApp for Extracting Text from Images and applying various thresholding methods with sentiment analysis using TextBlob",
+        "An E-commerce website for selling of organic dairy products, vegetables, fruits, millets, etc.",
       tags: [
         {
-          lang: "python",
+          lang: "Node.js",
           color: "#004782",
         },
         {
-          lang: "TextBlob",
+          lang: "Express.js",
           color: "#820032",
         },
         {
-          lang: "OpenCV",
+          lang: "MongoDB",
           color: "#00a100",
         },
         {
-          lang: "Streamlit",
+          lang: "Ubuntu",
           color: "#ff4b4b",
         },
         {
-          lang: "Heroku",
+          lang: "AWS",
           color: "#3c0095",
         },
       ],
-      link: "https://teath.herokuapp.com ",
-      code: "https://github.com/rohankokkula/TEATH",
+      link: "https://www.windsonorganics.in ",
+      code: "https://github.com/micro02/WindsonOrganics",
       linkcolor: "white",
     },
-
     {
       title: "Voice Gender Detection",
       img_path: "voice.gif",
@@ -462,6 +461,7 @@ const resumeleft = {
       {
         title: "Web Developer Intern",
         subtitle: "Saathi Samaj Sevi Sanstha, Kondagaon",
+        company_url:"https://www.linkedin.com/feed/",
         date: "Feb 2022 - Aug 2022",
         content: [
           "Developed a dynamic web based application in 2 months, with features like payment gateways, blogging, Admin Interface etc.",
@@ -472,6 +472,7 @@ const resumeleft = {
         title: "Founder",
         subtitle: "Innogative, Jabalpur",
         date: "Jan 2022 - April 2022",
+        company_url:"https://www.linkedin.com/feed/",
         content: [
           "Increased the industry experience of students(interns) 2x by making them work in real world projects.",
           "Started with 0 clients and managed to get 4 major clients in just 3 months interval.",
@@ -480,6 +481,7 @@ const resumeleft = {
       {
         title: "Chief Executive Officer(Own Startup)",
         subtitle: "3Bit-Digital, Jabalpur",
+        company_url:"https://www.linkedin.com/feed/",
         date: "July 2021 - Dec 2021",
         content: [
           "My role at 3Bit-Digital included a lot of research work about the clients needs and the technologies which should be used.",
@@ -491,6 +493,7 @@ const resumeleft = {
         title: "Front-end Developer",
         subtitle: "Prosage Global Consultants Private Ltd.",
         date: "Sept 2020 - Nov 2020",
+        company_url:"https://www.linkedin.com/feed/",
         content: [
           "Closely worked with the backend team and provided them the necessary frontend routes for the integration.",
           "Responsible for all the frontend development of the project for the company's client.",
@@ -543,14 +546,16 @@ const resumeright = {
       data: [
         {
           title: "Publication House Website",
-          subtitle: "Secrets-of-Ink",
+          subtitle: "Secrets of Ink",
+          company_url:"https://www.linkedin.com/feed/",
           content: [
             "Created and hosted a website for a publication house for showcasing their writings and selling them online.",
           ],
         },
         {
           title: "Personal Portfolio Website",
-          subtitle: "harshtiwari.in",
+          subtitle: "Harsh Tiwari",
+          company_url:"https://www.linkedin.com/feed/",
           content: [
             "Built a personal portfolio website for a politician, later hosted in on AWS EC2.",
           ],
@@ -570,6 +575,15 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1kSa_EeoTvyjti12wQDeObtHpr5ZcSDAK/view?usp=sharing",
       alt_name: "Internship",
+      color_code: "#000000",
+    },
+    {
+      title: "AWS Academy Graduate - AWS Academy Cloud Foundations",
+      subtitle: "Amazon Web Services Training and Certification",
+      logo_path: "aws-academy-graduate-aws-academy-cloud-foundations.png",
+      certificate_link:
+        "https://www.credly.com/badges/50dbb487-516a-4020-8796-dbf096d934d2/public_url",
+      alt_name: "Netacad",
       color_code: "#000000",
     },
     {

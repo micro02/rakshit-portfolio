@@ -104,3 +104,8 @@
     width: 100%;
   }
 }
+
+.company_url{
+  text-decoration: none;
+  color: #fff;
+}
