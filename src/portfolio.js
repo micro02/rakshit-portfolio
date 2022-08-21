@@ -461,7 +461,7 @@ const resumeleft = {
       {
         title: "Web Developer Intern",
         subtitle: "Saathi Samaj Sevi Sanstha, Kondagaon",
-        company_url:"https://www.linkedin.com/feed/",
+        company_url:"https://www.linkedin.com/company/saathi-samaj-sevi-sanstha/",
         date: "Feb 2022 - Aug 2022",
         content: [
           "Developed a dynamic web based application in 2 months, with features like payment gateways, blogging, Admin Interface etc.",
@@ -472,7 +472,7 @@ const resumeleft = {
         title: "Founder",
         subtitle: "Innogative, Jabalpur",
         date: "Jan 2022 - April 2022",
-        company_url:"https://www.linkedin.com/feed/",
+        company_url:"https://www.linkedin.com/company/innogative/",
         content: [
           "Increased the industry experience of students(interns) 2x by making them work in real world projects.",
           "Started with 0 clients and managed to get 4 major clients in just 3 months interval.",
@@ -481,7 +481,7 @@ const resumeleft = {
       {
         title: "Chief Executive Officer(Own Startup)",
         subtitle: "3Bit-Digital, Jabalpur",
-        company_url:"https://www.linkedin.com/feed/",
+        company_url:"https://www.linkedin.com/company/3-bit-digital/",
         date: "July 2021 - Dec 2021",
         content: [
           "My role at 3Bit-Digital included a lot of research work about the clients needs and the technologies which should be used.",
@@ -493,7 +493,7 @@ const resumeleft = {
         title: "Front-end Developer",
         subtitle: "Prosage Global Consultants Private Ltd.",
         date: "Sept 2020 - Nov 2020",
-        company_url:"https://www.linkedin.com/feed/",
+        company_url:"https://www.linkedin.com/company/prosage-global/",
         content: [
           "Closely worked with the backend team and provided them the necessary frontend routes for the integration.",
           "Responsible for all the frontend development of the project for the company's client.",
@@ -547,7 +547,7 @@ const resumeright = {
         {
           title: "Publication House Website",
           subtitle: "Secrets of Ink",
-          company_url:"https://www.linkedin.com/feed/",
+          company_url:"https://www.instagram.com/secretsofink/",
           content: [
             "Created and hosted a website for a publication house for showcasing their writings and selling them online.",
           ],
@@ -555,7 +555,7 @@ const resumeright = {
         {
           title: "Personal Portfolio Website",
           subtitle: "Harsh Tiwari",
-          company_url:"https://www.linkedin.com/feed/",
+          company_url:"https://www.instagram.com/bjpcheenu/",
           content: [
             "Built a personal portfolio website for a politician, later hosted in on AWS EC2.",
           ],
