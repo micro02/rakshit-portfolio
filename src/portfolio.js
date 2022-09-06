@@ -19,7 +19,7 @@ const greeting = {
   title: "Namaste!",
   sub: "Rakshit Tiwari",
   logo_name: "Rakshit Tiwari",
-  resumeLink: "https://drive.google.com/file/d/1m_o1N1o0RtK964-62EGZwWhe3CnonzqR/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1JCvuzXMT9JJnMjR-3bX6M9SAsd77kRwD/view?usp=sharing",
 };
 
 // home logos
